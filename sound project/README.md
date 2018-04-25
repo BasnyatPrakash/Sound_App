@@ -2,7 +2,7 @@
  
 Project Designer: Prakash Basnet
 
-Instructor: Dr.Gao Chao
+Instructor: Dr. Gao Chao
 
 
 
