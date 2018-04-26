@@ -28,7 +28,7 @@ int main(int argc, char *argv[]){
 		fp=fopen("test.wav","rb");
 
 		if(fp!=NULL){
-			clearScreen(); //clear the screen
+			clearScreen(); //clears the screen
 			fread(&myheader, sizeof(myheader), 1, fp);
 			fread(&samples, sizeof(short int)*FS, 1, fp);
 			displayWAVHeader(myheader);
